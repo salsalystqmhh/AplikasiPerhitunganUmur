@@ -9,7 +9,7 @@ Aplikasi Penghitung Umur adalah sebuah aplikasi berbasis Java yang membantu peng
 - *Peristiwa Penting*: Menampilkan peristiwa penting yang terjadi pada tanggal ulang tahun berikutnya berdasarkan data yang diambil secara daring.
 
 # Pembuat Aplikasi
- Muhammad Ikhya - 2210010405 - Latihan 2
+ Salsa Alya Istiqamh - 2210010089- Latihan 2
 
 # Fitur
 
@@ -41,4 +41,4 @@ Aplikasi ini menawarkan beberapa fitur utama:
 4. Jalankan PenghitungUmurFrame untuk memulai aplikasi.
 
 # Demo
-![Demo GIF](img/Gif%20Running.gif)
+![Demo GIF](img/giflatihan2.gif)
