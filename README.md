@@ -1,44 +1,45 @@
-# AplikasiPenghitungUmur
- 
-Aplikasi Penghitung Umur adalah sebuah aplikasi berbasis Java yang membantu pengguna menghitung usia mereka dalam format yang rinci, menampilkan tanggal ulang tahun berikutnya, serta memberikan informasi peristiwa penting yang terjadi pada tanggal tersebut dalam sejarah.
+# Aplikasi Penghitung Umur
 
-# Keunggulan Aplikasi
+Aplikasi Penghitung Umur adalah aplikasi berbasis Java yang membantu pengguna menghitung usia secara terperinci. Aplikasi ini juga menampilkan tanggal ulang tahun berikutnya, lengkap dengan hari dalam Bahasa Indonesia, serta memberikan informasi tentang peristiwa penting yang pernah terjadi pada tanggal tersebut.
 
-- *Menghitung Umur*: Aplikasi ini menghitung umur pengguna dari tanggal lahir yang diinput.
-- *Tanggal Ulang Tahun Berikutnya*: Menampilkan tanggal ulang tahun berikutnya beserta hari dalam Bahasa Indonesia.
-- *Peristiwa Penting*: Menampilkan peristiwa penting yang terjadi pada tanggal ulang tahun berikutnya berdasarkan data yang diambil secara daring.
+## Keunggulan Aplikasi
 
-# Pembuat Aplikasi
- Salsa Alya Istiqamh - 2210010089- Latihan 2
+- **Penghitungan Umur**: Menghitung usia pengguna dari tanggal lahir yang dimasukkan.
+- **Tanggal Ulang Tahun Berikutnya**: Menampilkan tanggal ulang tahun berikutnya beserta hari dalam Bahasa Indonesia.
+- **Informasi Peristiwa Bersejarah**: Menyajikan informasi tentang peristiwa penting yang pernah terjadi pada tanggal ulang tahun pengguna, berdasarkan data yang diambil secara daring.
 
-# Fitur
+## Pembuat Aplikasi
 
-Aplikasi ini menawarkan beberapa fitur utama:
+Salsa Alya Istiqamh - 2210010089 - Latihan 2
 
-1. *Penghitungan Umur Rinci*  
-   Menghitung usia pengguna dalam format yang lengkap, mencakup jumlah tahun, bulan, dan hari, berdasarkan tanggal lahir yang diinputkan.
+## Fitur
 
-2. *Penentuan Tanggal Ulang Tahun Berikutnya*  
-   Menampilkan tanggal ulang tahun berikutnya dari pengguna, termasuk hari dalam bahasa Indonesia. Dengan ini, pengguna dapat mengetahui kapan mereka akan merayakan ulang tahun berikutnya.
+Aplikasi Penghitung Umur menawarkan fitur-fitur berikut:
 
-3. *Peristiwa Penting pada Tanggal Ulang Tahun Berikutnya*  
-   Menyediakan informasi historis tentang peristiwa penting yang terjadi pada tanggal ulang tahun pengguna dari sumber API eksternal. Fitur ini berguna untuk memberikan wawasan unik mengenai kejadian-kejadian bersejarah pada tanggal tersebut.
+1. **Penghitungan Umur Rinci**  
+   Menghitung usia pengguna secara lengkap, mencakup jumlah tahun, bulan, dan hari berdasarkan tanggal lahir yang dimasukkan.
 
-4. *Antarmuka Pengguna yang Sederhana dan Mudah*  
-   Dibangun menggunakan Java Swing, aplikasi ini menawarkan antarmuka pengguna yang intuitif dengan input sederhana untuk memasukkan tanggal lahir dan tombol untuk memulai perhitungan.
+2. **Penentuan Tanggal Ulang Tahun Berikutnya**  
+   Menampilkan tanggal ulang tahun berikutnya, termasuk harinya dalam bahasa Indonesia, agar pengguna tahu kapan mereka akan berulang tahun selanjutnya.
 
-5. *Pembatalan Pengambilan Data Asinkron*  
-   Aplikasi menyediakan fungsi pembatalan untuk proses pengambilan data peristiwa penting, sehingga pengguna dapat membatalkan permintaan data jika perlu.
+3. **Peristiwa Penting pada Tanggal Ulang Tahun Berikutnya**  
+   Memberikan informasi historis mengenai peristiwa penting yang terjadi pada tanggal ulang tahun pengguna dari sumber API eksternal. Ini memberikan wawasan unik tentang kejadian bersejarah yang relevan.
 
-6. *Dukungan untuk Kustomisasi Tanggal Format*  
-   Tanggal ulang tahun berikutnya ditampilkan dalam format khusus (dd-MM-yyyy) yang mudah dipahami dan umum digunakan di Indonesia.
+4. **Antarmuka Pengguna Sederhana dan Intuitif**  
+   Dibangun dengan Java Swing, aplikasi ini menyajikan antarmuka yang mudah digunakan untuk memasukkan tanggal lahir dan memulai penghitungan.
+
+5. **Pembatalan Pengambilan Data Secara Asinkron**  
+   Pengguna dapat membatalkan permintaan pengambilan data peristiwa penting jika perlu, menjaga fleksibilitas aplikasi.
+
+6. **Dukungan Format Tanggal Kustom**  
+   Tanggal ulang tahun berikutnya ditampilkan dalam format (dd-MM-yyyy), sesuai dengan standar yang mudah dipahami di Indonesia.
 
 ## Cara Menjalankan
 
-1. Clone repositori ini ke dalam komputer Anda atau unduh sebagai ZIP.
-2. Buka proyek di IDE pilihan Anda.
-3. Pastikan Anda mengatur JDK yang benar di IDE Anda.
-4. Jalankan PenghitungUmurFrame untuk memulai aplikasi.
+1. Clone repositori ini ke komputer Anda atau unduh sebagai file ZIP.
+2. Buka proyek di IDE pilihan Anda (misalnya, IntelliJ atau Eclipse).
+3. Pastikan JDK sudah terkonfigurasi dengan benar di IDE Anda.
+4. Jalankan `PenghitungUmurFrame` untuk memulai aplikasi.
 
-# Demo
+## Demo
 ![Demo GIF](img/giflatihan2.gif)
