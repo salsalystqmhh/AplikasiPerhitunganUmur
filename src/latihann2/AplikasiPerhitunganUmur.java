@@ -53,7 +53,7 @@ public class AplikasiPerhitunganUmur extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(204, 204, 255));
 
-        jLabel1.setFont(new java.awt.Font("Microsoft New Tai Lue", 0, 14)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Lucida Bright", 0, 14)); // NOI18N
         jLabel1.setText("APLIKASI PERHITUNGAN UMUR");
 
         jLabel2.setText("Pilih Tanggal Lahir");
