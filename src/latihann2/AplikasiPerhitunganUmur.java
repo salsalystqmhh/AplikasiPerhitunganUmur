@@ -140,7 +140,7 @@ public class AplikasiPerhitunganUmur extends javax.swing.JFrame {
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
 
-        jLabel4.setFont(new java.awt.Font("Monotype Corsiva", 0, 12)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Bookman Old Style", 0, 14)); // NOI18N
         jLabel4.setText("BIRTHDAY");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
